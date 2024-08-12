@@ -14,32 +14,32 @@
     <ul>
         <li>
             <a href="https://github.com/caioskywalker/RepositorioRedesComputadores/blob/main/TrabalhoSubRede/IMG-20240717-WA0446.jpg">
-                IMG-20240717-WA0446.jpg
+                Subredes da Rede Principal 172.10.20.0/24
             </a>
         </li>
         <li>
             <a href="https://github.com/caioskywalker/RepositorioRedesComputadores/blob/main/TrabalhoSubRede/IMG-20240717-WA0447.jpg">
-                IMG-20240717-WA0447.jpg
+                Subredes da rede principal 192.168.0.0/28, para link serial
             </a>
         </li>
         <li>
             <a href="https://github.com/caioskywalker/RepositorioRedesComputadores/blob/main/TrabalhoSubRede/IMG-20240717-WA0448.jpg">
-                IMG-20240717-WA0448.jpg
+                Subredes da Rede Principal 10.136.20.0/24
             </a>
         </li>
         <li>
             <a href="https://github.com/caioskywalker/RepositorioRedesComputadores/blob/main/TrabalhoSubRede/IMG-20240717-WA0449.jpg">
-                IMG-20240717-WA0449.jpg
+                Subredes da rede principal 200.178.16.0/28, para link serial
             </a>
         </li>
         <li>
             <a href="https://github.com/caioskywalker/RepositorioRedesComputadores/blob/main/TrabalhoSubRede/IMG-20240717-WA0450.jpg">
-                IMG-20240717-WA0450.jpg
+                Subredes da Rede Principal 136.210.20.0/24
             </a>
         </li>
         <li>
             <a href="https://github.com/caioskywalker/RepositorioRedesComputadores/blob/main/TrabalhoSubRede/IMG-20240717-WA0451.jpg">
-                IMG-20240717-WA0451.jpg
+                Subredes da rede principal 200.178.16.0/28, para link serial
             </a>
         </li>
     </ul>
