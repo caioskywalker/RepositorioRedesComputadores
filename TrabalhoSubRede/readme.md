@@ -11,7 +11,6 @@
     <a href="https://github.com/caioskywalker/RepositorioRedesComputadores/blob/main/TrabalhoSubRede/Lista_de_exercicios_de_TCP_ip.pdf">
         https://github.com/caioskywalker/RepositorioRedesComputadores/blob/main/TrabalhoSubRede/Lista_de_exercicios_de_TCP_ip.pdf
     </a>
-
     <h2>Resolução dos exercícios em VLSM (Variable Length Subnet Mask)</h2>
     <ul>
         <li>
