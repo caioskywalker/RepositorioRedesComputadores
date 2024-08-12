@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício de Redimensionamento de Redes para Subredes</title>
 </head>
 <body>
     <h1>Exercício de Redimensionamento de Redes para Subredes</h1>
@@ -44,7 +45,12 @@
         </li>
     </ul>
     <h2>Subredes configuradas no laboratório Cisco Packet Tracer</h2>
-    <p><strong>Obs:</strong> usuário = aluno, senha md5 = aluno, senha md5 para enable = cisco</p>
+    <p><strong>Obs: Nome de usuário e senhas configuradas</strong></p>
+    <ul>
+        <li>Nome de usuário console: <strong>aluno</strong></li>
+        <li>Senha md5 console: <strong>aluno</strong></li>
+        <li>Senha md5 para enable: <strong>cisco</strong></li>
+    </ul>
     <ul>
         <li>
             <a href="https://github.com/caioskywalker/RepositorioRedesComputadores/blob/main/TrabalhoSubRede/Quest%C3%A3o%201%20-%20Lista%20de%20Exerc%C3%ADcios%20C%C3%A1lculo%20e%20Projeto%20de%20Rede%20IPv4.pkt">
