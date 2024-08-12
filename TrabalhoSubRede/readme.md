@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercício de Redimensionamento de Redes para Subredes</title>
 </head>
 <body>
     <h1>Exercício de Redimensionamento de Redes para Subredes</h1>
@@ -43,8 +44,28 @@
             </a>
         </li>
     </ul>
+    <h2>Subredes configuradas no laboratório Cisco Packet Tracer</h2>
+    <p><strong>Obs:</strong> usuário = aluno, senha md5 = aluno, senha md5 para enable = cisco</p>
+    <ul>
+        <li>
+            <a href="https://github.com/caioskywalker/RepositorioRedesComputadores/blob/main/TrabalhoSubRede/Quest%C3%A3o%201%20-%20Lista%20de%20Exerc%C3%ADcios%20C%C3%A1lculo%20e%20Projeto%20de%20Rede%20IPv4.pkt">
+                Questão 1 - Lista de Exercícios Cálculo e Projeto de Rede IPv4
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/caioskywalker/RepositorioRedesComputadores/blob/main/TrabalhoSubRede/Quest%C3%A3o%202%20-%20Lista%20de%20Exerc%C3%ADcios%20C%C3%A1lculo%20e%20Projeto%20de%20Rede%20IPv4.pkt">
+                Questão 2 - Lista de Exercícios Cálculo e Projeto de Rede IPv4
+            </a>
+        </li>
+        <li>
+            <a href="https://github.com/caioskywalker/RepositorioRedesComputadores/blob/main/TrabalhoSubRede/Quest%C3%A3o%203%20-%20Lista%20de%20Exerc%C3%ADcios%20C%C3%A1lculo%20e%20Projeto%20de%20Rede%20IPv4.pkt">
+                Questão 3 - Lista de Exercícios Cálculo e Projeto de Rede IPv4
+            </a>
+        </li>
+    </ul>
 </body>
 </html>
+
 
 
  
