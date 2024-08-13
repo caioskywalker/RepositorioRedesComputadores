@@ -44,6 +44,9 @@
         </li>
     </ul>
     <h2>Subredes configuradas no laboratório Cisco Packet Tracer</h2>
+    <p align="center">
+      <img src="cisco.jpg" alt="Cisco" width="30%">
+    </p>
     <p><strong>Obs: Nome de usuário e senhas configuradas</strong></p>
     <ul>
         <li>Nome de usuário console: <strong>aluno</strong></li>
