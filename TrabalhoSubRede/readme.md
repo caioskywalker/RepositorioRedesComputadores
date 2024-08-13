@@ -10,6 +10,8 @@
     <a href="https://github.com/caioskywalker/RepositorioRedesComputadores/blob/main/TrabalhoSubRede/Lista_de_exercicios_de_TCP_ip.pdf">
         https://github.com/caioskywalker/RepositorioRedesComputadores/blob/main/TrabalhoSubRede/Lista_de_exercicios_de_TCP_ip.pdf
     </a>
+    <br>
+    <br>
     <h2>Resolução dos exercícios em VLSM (Variable Length Subnet Mask)</h2>
     <ul>
         <li>
@@ -43,9 +45,10 @@
             </a>
         </li>
     </ul>
+    <br>
     <h2>Subredes configuradas no laboratório Cisco Packet Tracer</h2>
     <p align="center">
-      <img src="cisco.jpg" alt="Cisco" width="30%">
+      <img src="cisco.jpg" alt="Cisco" width="25%">
     </p>
     <p><strong>Obs: Nome de usuário e senhas configuradas</strong></p>
     <ul>
